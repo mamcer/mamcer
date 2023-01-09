@@ -1,10 +1,8 @@
 Hi, I am Mario Moreno
 
-A software developer with more than 20 years of professional experience working with programming languages and technologies like C++, Ruby, C# (full framework and .net core, iis, sql server, etc. for several years) and since 2019 with Golang and other non Microsoft technologies. Also always working and tinkering with different technologies and platforms
+A software developer with more than 20 years of professional experience working with programming languages and technologies like C++, Ruby, C# and Golang on Windows and Linux platforms. 
 
-In my [GitHub profile](https://github.com/mamcer) you can find different repositories with my most elaborated 'experiments'
-
-Lately I no longer develop like before, at least nothing outside fast POCs, scripts or little programs for a specific goal that mostly are not worth posting on GitHub
+Lately I no longer code like before, but I still preserve that passion about technology and desire to learn. Which end up instantiating in fast POCs, scripts, local infrastructure configuration or little programs for a specific goal that mostly are not worth posting on GitHub. Beyond the opportunities and professional experience in my workplace
 
 For more information and/or tech stories, you can see my [blog](https://mamcer.github.io/)
 
