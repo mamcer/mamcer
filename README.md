@@ -1,4 +1,4 @@
-Hi, I am Mario Moreno
+Hi, I'm Mario
 
 A software developer with more than 20 years of professional experience working with programming languages and technologies like C++, C# and Golang on Windows, Linux and Mac platforms
 
