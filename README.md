@@ -1,6 +1,6 @@
-Hi, I'm Mario
+Hi, I'm Mario.
 
-I am a technical leader with more than 20 years of professional experience working with programming languages and technologies like C#, Golang, MySQL, ASP .Net Core, Gin Web, Microservices, Docker, Jenkins, and more, on Linux, Windows, and Mac platforms.
+I've been a technical leader for over 20 years, playing around with things like C#, Golang, MySQL, ASP.NET Core, microservices and more. I'm comfortable on platforms like Linux, Windows, Mac. I'm also proficient with modern DevOps practices looking to ensure efficient and reliable software delivery.
 
 For more information and tech stories, you can read my [blog](https://mamcer.github.io/)
 
