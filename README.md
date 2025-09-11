@@ -1,7 +1,9 @@
-Hi, I'm Mario.
+Itsumi Mario 
 
-I've been a technical leader for over 20 years, playing around with technologies like C#, Golang, MySQL, ASP.NET Core, from monoliths on premises to microservices in the cloud. I'm comfortable on platforms like Linux, Windows and Mac. I'm also proficient with modern DevOps practices looking to ensure efficient and reliable software delivery.
+I'm a technical leader with over 20 years of experience building software and people. I have experience with several technologies like C#, Golang, MySQL, architecting solutions that range from on-premises monoliths to cloud-native microservices. I'm proficient across Linux, Windows, and Mac platforms and I am passionate about using modern DevOps practices to ensure efficient and reliable software delivery.
 
-For more tech stories and information, check out my [blog](https://mamcer.github.io/) and [LinkedIn](https://www.linkedin.com/in/mamcer/) for professional experience. 
+There is always something new to learn.
+
+For more tech stories and information, check out my [blog](https://mamcer.github.io/) and [LinkedIn](https://www.linkedin.com/in/mamcer/) for professional experience. 🖖🏽 
 
 [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamcer&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
