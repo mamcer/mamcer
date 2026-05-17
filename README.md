@@ -5,5 +5,3 @@ I'm a technical leader with over twenty years of professional experience buildin
 Continuous learner, this is the way.
 
 For more tech stories and information, check out my [blog](https://mamcer.github.io/) and [LinkedIn](https://www.linkedin.com/in/mamcer/) for professional experience. 
-
-[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamcer&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
