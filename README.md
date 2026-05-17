@@ -1,7 +1,12 @@
-Hi, my name is Mario
+## Hi, I'm Mario (mamcer)
+  
+I am an engineering leader with over 20 years of experience building both high-scale software and high-performance teams. My journey has taken me from architecting on-premises monoliths to leading 30+ engineer squads in cloud-native ecosystems at **Mercado Libre** and **VEMO**.
 
-I'm a technical leader with over twenty years of professional experience building software and people. I have experience with different technologies like C#, Golang, MySQL, architecting solutions that range from on-premises monoliths to cloud-native microservices. I'm proficient across Linux, Windows, and Mac platforms and passionate about using modern DevOps practices to ensure efficient and reliable software delivery.
+### Core Focus
+- AI-Augmented Engineering: Optimizing the SDLC through agentic workflows and AI-driven development.
+- Modern Backend: Strategic expertise in Go and C#, focusing on Clean Architecture and high availability.
+- Scale & Reliability: Experience in SRE practices
 
-Continuous learner, this is the way.
+*Continuous learner, this is the way.*
 
-For more tech stories and information, check out my [blog](https://mamcer.github.io/) and [LinkedIn](https://www.linkedin.com/in/mamcer/) for professional experience. 
+[Tech stories](https://mamcer.github.io/) | [LinkedIn](https://linkedin.com/in/mamcer)
