@@ -1,4 +1,4 @@
-## Hi, I'm Mario (mamcer)
+## Hi, I'm Mario
   
 I am an engineering leader with over 20 years of experience building both high-scale software and high-performance teams. My journey has taken me from architecting on-premises monoliths to leading 30+ engineer squads in cloud-native ecosystems at **Mercado Libre** and **VEMO**.
 
